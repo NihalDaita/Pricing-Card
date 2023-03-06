@@ -76,6 +76,7 @@ button:hover {
 #pricing div {
   display: inline-block;
   margin-bottom: 10px;
+  /* checking */
 }
 
 #pricing #price{
