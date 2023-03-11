@@ -68,7 +68,7 @@ div {
 }
 
 #signup {
-  background-color: #bfdf32;
+  background-color: #bfde33;
   color: white;
   border: none;
   font-size: 0.9rem;
@@ -79,9 +79,9 @@ div {
   box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.15);
 }
 
-button:hover {
+#signup:hover {
   cursor: pointer;
-  background-color: #748a11;
+  background-color: #a5c02c;
   transform: scale(1.01);
 
 }
@@ -125,6 +125,7 @@ ul {
 }
 
 @media (max-width: 650px) {
+
   /* Trial push */
   #card,
   #lower-left,
